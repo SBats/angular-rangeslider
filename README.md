@@ -27,6 +27,10 @@ Download the files from Github or use Bower:
 
     $ bower install angular-rangeslider
 
+Or npm:
+
+    $ npm install angular-rangeslider
+
 Add the JS and CSS to your page:
 
     <script src="bower_components/angular-rangeslider/angular.rangeSlider.js"></script>
@@ -43,13 +47,13 @@ If you use SCSS & Compass you can include the source SCSS directly into your pro
 Demo
 ----
 
- - [Demo - Angular v.1.1.*](http://danielcrisp.github.io/angular-rangeslider/demo/)
- - [Legacy Demo - Angular v.1.0.*](http://danielcrisp.github.io/angular-rangeslider/demo/legacy.html)
+ - [Demo - Angular v.1.1.*](http://migstopheles.github.io/angular-rangeslider/demo/)
+ - [Legacy Demo - Angular v.1.0.*](http://migstopheles.github.io/angular-rangeslider/demo/legacy.html)
 
 GitHub Pages
 ------------
 
-[Project page](http://danielcrisp.github.io/angular-rangeslider/)
+[Project page](http://migstopheles.github.io/angular-rangeslider/)
 
 Quick example
 -------------
