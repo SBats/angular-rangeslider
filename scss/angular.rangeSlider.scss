@@ -1,13 +1,13 @@
 /**
  * 	Angular RangeSlider SCSS
- * 
+ *
  *	Version: 0.0.14
  *
  * 	Author: Daniel Crisp, danielcrisp.com
  *
  * 	The rangeSlider has been styled to match the default styling
  * 	of form elements styled using Twitter's Bootstrap
- * 
+ *
  * 	Originally forked from https://github.com/leongersen/noUiSlider
  *
 
@@ -39,7 +39,7 @@
     COMPASS IMPORTS
 \*------------------------------------*/
 
-@import "compass/css3";
-@import "compass/css3/user-interface";
+@import "compass-mixins/lib/compass/css3";
+@import "compass-mixins/lib/compass/css3/user-interface";
 
 @import "rangeSlider";
